@@ -1,0 +1,111 @@
+{
+  "tasks": [
+    {
+      "title": "Project Kickoff",
+      "details": "Initial meeting to discuss project scope and objectives.",
+      "startDate": "2024-06-01",
+      "endDate": "2024-05-20",
+      "status": "Pending",
+      "img": "https://i.ibb.co/J2zQ7Qz/image-2.jpg",
+      "assigned": "Alice",
+      "id": "1",
+      "projectId": "4"
+    },
+    {
+      "title": "Requirement Gathering",
+      "details": "Gather all necessary requirements from the client.",
+      "startDate": "2024-05-08",
+      "endDate": "2024-05-23",
+      "status": "Pending",
+      "img": "https://i.ibb.co/60BcL56/Whats-App-Image-2023-10-14-at-1-48-39-PM-1-1.jpg",
+      "assigned": "Eva, Alice",
+      "id": "2",
+      "projectId": "3"
+    },
+    {
+      "title": "Development Phase ",
+      "details": "Develop the core functionalities as per the requirements.",
+      "startDate": "2024-06-10",
+      "endDate": "2052-01-07",
+      "status": "Completed",
+      "img": "https://i.ibb.co/60BcL56/Whats-App-Image-2023-10-14-at-1-48-39-PM-1-1.jpg",
+      "assigned": "Alice",
+      "id": "4",
+      "projectId": "4"
+    },
+    {
+      "title": "Testing Phase",
+      "details": "Perform thorough testing of all functionalities.",
+      "startDate": "2024-06-21",
+      "endDate": "2024-05-21",
+      "status": "Completed",
+      "img": "https://i.ibb.co/CtVPrhk/imdb-1.jpg",
+      "assigned": "Eve",
+      "id": "5",
+      "projectId": "3"
+    },
+    {
+      "title": "Testing Phase Menually",
+      "details": "Perform thorough testing of all functionalities.",
+      "startDate": "2024-05-18",
+      "endDate": "2024-05-20",
+      "status": "Backlog",
+      "assigned": "Alice, Frank",
+      "projectId": "3",
+      "id": "6"
+    },
+    {
+      "title": "Test 24",
+      "details": "test details",
+      "startDate": "2024-05-18",
+      "endDate": "2024-05-28",
+      "status": "Pending",
+      "assigned": "Alice",
+      "id": "7"
+    }
+  ],
+  "people": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "position": "Project Manager",
+      "img": "https://i.ibb.co/CtVPrhk/imdb-1.jpg",
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "position": "Business Analyst",
+      "img": "https://i.ibb.co/J2zQ7Qz/image-2.jpg",
+      "email": "bob.smith@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Charlie Brown",
+      "position": "UI/UX Designer",
+      "img": "https://i.ibb.co/60BcL56/Whats-App-Image-2023-10-14-at-1-48-39-PM-1-1.jpg",
+      "email": "charlie.brown@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Diana Prince",
+      "position": "Frontend Developer",
+      "img": "https://i.ibb.co/J2zQ7Qz/image-2.jpg",
+      "email": "diana.prince@example.com"
+    },
+    {
+      "id": "5",
+      "name": "Eve Adams",
+      "position": "QA Engineer",
+      "img": "https://i.ibb.co/J2zQ7Qz/image-2.jpg",
+      "email": "eve.adams@example.com"
+    },
+    {
+      "id": "6",
+      "name": "Frank Miller",
+      "position": "DevOps Engineer",
+      "img": "https://i.ibb.co/60BcL56/Whats-App-Image-2023-10-14-at-1-48-39-PM-1-1.jpg",
+      "email": "frank.miller@example.com"
+    }
+  ]
+}
